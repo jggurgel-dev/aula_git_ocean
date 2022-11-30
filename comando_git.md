@@ -13,3 +13,5 @@ Comandos Git
 -> git commit = salva todas as alterações no meu repositório local
 -> git log = exibe todas as alterações feitas no projeto, coomit ou saves point.
 -> git push = envia o projeto com todos os commits realizados para o repositório remoto.
+-> git log --online = exibe todos os commits de forma resumida em um linha
+-> git chekout <id_coomit> = retorna ao ponto do anteroir ao commit identificado.
